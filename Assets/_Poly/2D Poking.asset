@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad0a5c3e717d4e65bbb87bf4d1c3f528, type: 3}
+  m_Name: 2D Poking
+  m_EditorClassIdentifier: 
+  poke: {fileID: 11400000, guid: 4de09fcf27b883845bf0e78b19898c96, type: 2}

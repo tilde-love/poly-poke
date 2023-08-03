@@ -1,0 +1,15 @@
+{
+    "name": "love.tilde.poly-poke",
+    "displayName": "Poly Poke",
+    "author": { "name": "Tilde Love", "url": "https://tilde.love" },
+    "version": "0.0.1",
+    "unity": "2022.3",
+    "description": "Simple Multi-Touch Wrapper",
+    "keywords": [ "touch", "accessability", "multi-touch", "input" ],
+    "license": "MIT",
+    "category": "Input",
+    "dependencies": {
+        "love.tilde.ossify": "0.1.0",
+        "com.cysharp.unitask": "2.3.3"
+    }
+}
