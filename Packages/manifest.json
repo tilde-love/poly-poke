@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.unity.cinemachine": "2.9.7",
     "com.unity.collab-proxy": "2.0.5",
     "com.unity.feature.2d": "2.0.0",
     "com.unity.ide.rider": "3.0.24",
@@ -14,6 +15,7 @@
     "com.unity.toolchain.win-x86_64-linux-x86_64": "2.0.6",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.8.0",
+    "love.tilde.ideation-station": "file:F:/tilde-love/unity-packages/ideation-station/Ideation-Station",
     "love.tilde.ossify": "https://github.com/tilde-love/ossify.git?path=Ossify",
     "love.tilde.poly-poke": "file:../Poly-Poke",
     "com.unity.modules.ai": "1.0.0",

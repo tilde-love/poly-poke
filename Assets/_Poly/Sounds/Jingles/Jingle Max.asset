@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b437cc51844affb52342d25a7652ae, type: 3}
+  m_Name: Jingle Max
+  m_EditorClassIdentifier: 
+  input:
+    UseConstant: 0
+    ConstantValue: 0
+    Variable: {fileID: 11400000, guid: 186e7a7d1c7f03248b19b4fc8c67bfa4, type: 2}
+  output:
+    UseConstant: 0
+    ConstantValue: 0
+    Variable: {fileID: 11400000, guid: e5433782001ea4a43ab34d23dd332768, type: 2}
+  defaultValue:
+    UseConstant: 1
+    ConstantValue: 0
+    Variable: {fileID: 0}
+  mode: 5

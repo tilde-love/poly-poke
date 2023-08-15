@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12d44595bd94ec08bf837549683f6d5, type: 3}
+  m_Name: Raycast 2D Poke
+  m_EditorClassIdentifier: 
+  layers:
+    serializedVersion: 2
+    m_Bits: 55
+  enableDragThroughPickup: 1
+  noHitWhizz: {fileID: 11400000, guid: c6cdc14b929dc0d46a377a0ecf3776ed, type: 2}
+  pickedWhizz: {fileID: 11400000, guid: 8e445fc953860cc4fadccaae3ddb73b3, type: 2}

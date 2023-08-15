@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4e0001373e744598db017990f50f32d, type: 3}
+  m_Name: Jingle Blower
+  m_EditorClassIdentifier: 
+  enabled: {fileID: 0}
+  intensity:
+    UseConstant: 0
+    ConstantValue: 0
+    Variable: {fileID: 11400000, guid: 9552987b323c7e046b75ca4746d4ba1f, type: 2}
+  honkSource: {fileID: 6616196229213422863, guid: 5c9e45b52b22e6749a083b084c1ce22e, type: 3}
+  clips: {fileID: 11400000, guid: 7084d17116e2a50419107d75a1e1ebdd, type: 2}

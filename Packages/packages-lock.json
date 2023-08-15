@@ -110,6 +110,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.cinemachine": {
+      "version": "2.9.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.31"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.collab-proxy": {
       "version": "2.0.5",
       "depth": 0,
@@ -305,6 +314,16 @@
       },
       "url": "https://packages.unity.com"
     },
+    "love.tilde.ideation-station": {
+      "version": "file:F:/tilde-love/unity-packages/ideation-station/Ideation-Station",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "love.tilde.ossify": "0.1.0",
+        "love.tilde.poly-poke": "0.1.0",
+        "com.cysharp.unitask": "2.3.3"
+      }
+    },
     "love.tilde.ossify": {
       "version": "https://github.com/tilde-love/ossify.git?path=Ossify",
       "depth": 0,
@@ -312,7 +331,7 @@
       "dependencies": {
         "com.cysharp.unitask": "2.3.3"
       },
-      "hash": "0b9522750849b1677b6fe8e0834831895b7165a6"
+      "hash": "6d5220d636459766969f43aeb079780b2ee50673"
     },
     "love.tilde.poly-poke": {
       "version": "file:../Poly-Poke",

@@ -1,4 +1,5 @@
 ﻿using System;
+using Ossify;
 using UnityEngine;
 
 namespace PolyPoke
@@ -11,6 +12,8 @@ namespace PolyPoke
     public interface IPokeSession : IDisposable
     {
         bool Disposed { get; }
+
+        Dispenser<Whizz> WhizzDispenser { get; }
 
         void Update(Vector3 pokePosition);
     }
@@ -35,5 +38,8 @@ namespace PolyPoke
 
         /// <inheritdoc />
         public void Update(Vector3 pokePosition) => collider2D.transform.position = pokePosition + offset;
+
+        /// <inheritdoc />
+        public Dispenser<Whizz> WhizzDispenser => null;
     }
 }

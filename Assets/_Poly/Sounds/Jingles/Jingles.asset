@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a1f95aa159d407d9a6f79a74afd3704, type: 3}
+  m_Name: Jingles
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 8300000, guid: 73a1897c7128831408840a6e7a37c040, type: 3}
+  - {fileID: 8300000, guid: 66beeb1929ed3f54f97a171824afcd15, type: 3}
+  - {fileID: 8300000, guid: 5e9b452018a51404cb77a2e3f57fc3e3, type: 3}
+  - {fileID: 8300000, guid: 1b059ba5e8aa11e46aaab4ca6d9a8478, type: 3}
