@@ -331,7 +331,7 @@
       "dependencies": {
         "com.cysharp.unitask": "2.3.3"
       },
-      "hash": "6d5220d636459766969f43aeb079780b2ee50673"
+      "hash": "b3bdc44ea4297343f4f5ee32ef9b30c2660b43d6"
     },
     "love.tilde.poly-poke": {
       "version": "file:../Poly-Poke",

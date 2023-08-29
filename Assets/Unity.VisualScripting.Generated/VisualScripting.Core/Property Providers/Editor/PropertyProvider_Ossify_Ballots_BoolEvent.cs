@@ -12,8 +12,8 @@ namespace Unity.VisualScripting.Generated.PropertyProviders
 {
 	
 	
-	[global::Unity.VisualScripting.SerializedPropertyProviderAttribute(typeof(global::Ossify.Ballots.BoolEvent))]
-	public class PropertyProvider_Ossify_Ballots_BoolEvent : Unity.VisualScripting.SerializedPropertyProvider<Ossify.Ballots.BoolEvent>
+	[global::Unity.VisualScripting.SerializedPropertyProviderAttribute(typeof(global::Ossify.BoolEvent))]
+	public class PropertyProvider_Ossify_Ballots_BoolEvent : Unity.VisualScripting.SerializedPropertyProvider<Ossify.BoolEvent>
 	{
 	}
 }

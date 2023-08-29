@@ -4,6 +4,7 @@
   "references": [
     "UniTask",
     "Ossify",
+    "Ossify.Microtypes",
     "Unity.InputSystem"
   ],
   "includePlatforms": [],
